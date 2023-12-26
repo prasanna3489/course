@@ -4,7 +4,7 @@
   <groupId>course</groupId>
   <artifactId>course</artifactId>
   <packaging>war</packaging>
-  <version>2.0-SNAPSHOT</version>
+  <version>3.0-SNAPSHOT</version>
   <name>course Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
